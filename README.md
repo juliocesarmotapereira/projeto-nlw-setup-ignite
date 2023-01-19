@@ -22,4 +22,4 @@
 - npx prisma migrate dev
 - npx prisma studio
 - usando async e await
-- 
+- npm i @fastify/cors
