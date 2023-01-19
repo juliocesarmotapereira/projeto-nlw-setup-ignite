@@ -12,4 +12,14 @@
 - npx tsc --init
 - npm i tsx -D
 - em package.json no "scripts": {"dev": "tsx watch src/server.ts"}, rodar em modo de watch no terminal npm run dev
+- criação da primeira rota
+- back-end API RESTful
+- método HTTP: Get, Post, Put, Patch, Delete
+- mysql2, knexjs, prisma ORM
+- npm i -D prisma
+- npm i @prisma/client
+- npx prisma init --datasource-provider SQlite
+- npx prisma migrate dev
+- npx prisma studio
+- usando async e await
 - 
