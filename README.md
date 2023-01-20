@@ -23,3 +23,8 @@
 - npx prisma studio
 - usando async e await
 - npm i @fastify/cors
+- front-end npm create vite@latest
+- cd pasta web npm install
+- React componentes com letra inicial Maiúscula
+- fundamentos do React componente: o que vai reaproveitar ou isolar
+- fundamentos do React propriedade: é uma informação enviada para modificar um componete visual ou comportamentalmente 
