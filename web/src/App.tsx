@@ -1,3 +1,5 @@
+import './styles/global.css';
+
 import { Habit } from "./componentes/Habit"
 
 function App() {

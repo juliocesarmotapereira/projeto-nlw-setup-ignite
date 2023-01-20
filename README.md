@@ -28,3 +28,5 @@
 - React componentes com letra inicial Maiúscula
 - fundamentos do React componente: o que vai reaproveitar ou isolar
 - fundamentos do React propriedade: é uma informação enviada para modificar um componete visual ou comportamentalmente 
+- npm install -D tailwindcss postcss autoprefixer 
+- npm tailwindcss init -p
