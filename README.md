@@ -7,7 +7,7 @@
 - npm i fastify "^4.11.00"
 - package.json
 - pasta src
-- TypeScript tipagem estática
+- expTypeScript tipagem estática
 - npm i typescript -D
 - npx tsc --init
 - npm i tsx -D
@@ -30,3 +30,8 @@
 - fundamentos do React propriedade: é uma informação enviada para modificar um componete visual ou comportamentalmente 
 - npm install -D tailwindcss postcss autoprefixer 
 - npm tailwindcss init -p
+- React Native: permite criar aplicativos para Android, iOS; uma única base de código
+- Expo: https://docs.expo.dev/
+- npm install -g expo-cli
+- npx create-expo-app mobile --template
+- npx expo start 
