@@ -4,6 +4,8 @@
 
 ### Anotações
 
+Aula-1 
+
 * fundamentos do node.js
 * npm init -y
 * npm i fastify "^4.11.00"
@@ -39,3 +41,5 @@
 * npx expo start
 * reload: npx expo start --clear
 * npx expo install expo-font @expo-google-fonts/inter
+
+Aula-2
